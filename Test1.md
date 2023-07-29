@@ -211,3 +211,5 @@ Pull reguest
 - фиксируем изменения (делаем коммит)
 - отправляет свою версию в GitHub
 - на сайте GitHub нажимаем кнопку pull reguest
+
+New iformation
